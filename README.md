@@ -1,4 +1,6 @@
-# ChatSphere - Full Stack Realtime Chat App
+# ✨ ChatSphere - Full Stack Realtime Chat App ✨
+
+![Demo App](https://chatsphere-q9mv.onrender.com/)
 
 ### Setup .env file
 
